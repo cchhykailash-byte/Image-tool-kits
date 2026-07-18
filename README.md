@@ -13,8 +13,6 @@ A complete Image Processing Toolkit built using Streamlit.
 - Image to PDF
 - PDF to Image
 - Watermark
-- QR Code Generator
-- Barcode Generator
 - Passport Photo Maker
 - Brightness & Contrast
 - Blur
